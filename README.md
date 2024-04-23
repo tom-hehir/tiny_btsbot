@@ -1,4 +1,4 @@
 - This repo contains a tiny version of the BTSbot dataset (comprising 3 examples from each of the train, validation, and test splits) for the purposes of testing the integration of BTSbot into the AstroPile.
 - I have no connection to the BTSbot project!
-- BTSbot is described here: https://arxiv.org/abs/2307.07618
+- BTSbot is described here: https://arxiv.org/abs/2401.15167
 - The AstroPile repo is located here: https://github.com/AstroPile/AstroPile_prototype/tree/main/astropile
